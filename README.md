@@ -1,9 +1,9 @@
 # Azure Honeypot with Microsoft Sentinel SIEM
 
-![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Sentinel](https://img.shields.io/badge/Microsoft-Sentinel-5E5E5E?style=for-the-badge)
-![KQL](https://img.shields.io/badge/Language-KQL-blue?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-red?style=for-the-badge)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Kusto Query Language](https://img.shields.io/badge/Kusto_Query_Language-00599C?style=for-the-badge)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Overview
 
