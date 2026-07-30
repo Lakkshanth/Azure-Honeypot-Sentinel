@@ -316,8 +316,7 @@ Azure-Honeypot-Sentinel/
 │
 ├── README.md
 │
-├── docs/
-│   └── Azure_Honeypot_Report.pdf
+├──Azure_Honeypot_Report.pdf
 │
 ├── demo/
 │   └── Azure_Honeypot_Demo.mp4
